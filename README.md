@@ -1,9 +1,15 @@
-# JWD_EPAM_TASKS
+# Java Web Development course
 
-## EPAM Java Web Development course 
+## First Task
 
-Task One
+### Project Structure
 
-There are ten tasks, all you can find in the task package
+### lib
+#### lib is a package that represents a library – some highly usable classes and function right here✨
 
-Also I have package lib for the special functions like IO or Time for several tasks in the project
+### tasks
+#### Package with ten subfolder. Every subfolder contains solution of one problem.
+
+### Author
+#### Alaksiej Pieravierzieǔ
+#### Miensk 2021
